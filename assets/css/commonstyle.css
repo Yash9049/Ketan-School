@@ -212,7 +212,7 @@ footer .footer-top{
     background-position: center;
     background-size: cover;
     padding: 90px 0px 50px 0px;
-    color: white !important;
+    color: white;
 }
 footer .footer-top h2{
     font-size: 50px;
@@ -237,7 +237,7 @@ footer .footer-top .social-icon a{
     font-size: 16px;
     width: 35px;
     background-color: #EA512E;
-    color: white !important;
+    color: white;
     transition: all 0.3s;
 }
 footer .footer-top .social-icon a:hover{
@@ -253,7 +253,7 @@ footer .footer-top ul li{
     margin-bottom:15px;
 }
 footer .footer-top ul li a{
-    color: white !important;
+    color: white;
     transition: all 0.4s;
     position: relative;
 }
@@ -282,7 +282,7 @@ footer .footer-bottom{
     line-height: 90px;
     text-align: center;
     background-color: #091629;
-    color: white !important;
+    color: white;
 }
 /* footer section end */
 /* fixed section start */
